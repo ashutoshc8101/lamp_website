@@ -1,0 +1,18 @@
+.folder-image {
+  cursor: pointer;
+  width: 70%;
+}
+
+.folder-container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.folder {
+  margin: 40px 0px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+#error-page {
+  text-align: center;
+  margin-top: 30vh;
+  color: #333;
+}
+
+#error-page h1{
+  font-size: 4rem;
+  color: black;
+  margin-bottom: 40px;
+}
+
+#error-page p i {
+  color: #555;
+}

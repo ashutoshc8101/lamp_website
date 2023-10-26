@@ -1,0 +1,30 @@
+
+.scholar-image {
+  width: 300px;
+  margin-bottom: 10px;
+  /* border: 2px solid #003f87; */
+}
+
+.scholar-images-row {
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+
+.linkedIn-icon {
+  width: 25px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.google-scholar-icon {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.facebook-icon {
+  width: 25px;
+}
+
+.align-left {
+  text-align: left;
+}

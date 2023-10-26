@@ -1,0 +1,107 @@
+.header {
+  text-align: left;
+  padding: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+}
+
+
+.headline {
+  text-align: center;
+  padding-top: 20px;
+  color: #00316a;
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.headernav {
+  background: #003f87;
+}
+
+.navmenu {
+  margin: 0px 70px 0px 70px;
+}
+
+Nav.Link {
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.navmenu .house-icon {
+  color: white;
+}
+
+.navlink a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: 400;
+  font-size: 1.05rem;
+}
+
+.navlink a:hover {
+  color: white;
+}
+
+.lab-image {
+  width: 400px;
+  /* margin-left: 40px; */
+  margin-top: 10px;
+}
+
+.mechanical-logo {
+  width: 68%;
+}
+
+.institute-image {
+  margin-right: 30px;
+}
+
+.small-screen-image {
+  display: none;
+  width: 100%;
+}
+
+.institute-logo.col-sm-3 {
+  width: 20%;
+}
+
+
+.headline.col-sm-3 {
+  width: 35%;
+}
+
+.lab-logo.col-sm-3 {
+  width: 25%;
+}
+
+.col-sm-3.dep-logo {
+  text-align: center;
+  width: 20%;
+}
+
+
+@media (max-width: 768px) {
+  .header {
+    padding: 0px;
+  }
+
+  .mechanical-logo {
+    display: none;
+  }
+
+  .lab-image {
+    display: none;
+  }
+
+  .image {
+    display: none;
+  }
+
+  .small-screen-image {
+    display: block;
+  }
+}

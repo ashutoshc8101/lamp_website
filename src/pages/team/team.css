@@ -1,0 +1,17 @@
+.team-headline {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.team-image {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  width: 70%;
+  border: 2px solid #003f87;
+}
+
+@media (max-width: 768px) {
+  .team-image {
+    width: 100%;
+  }
+}

@@ -1,0 +1,19 @@
+.sidenav {
+  padding: 50px;
+  background-color: #00316a;
+}
+
+.sidenav .list-group-item {
+  background-color: #00316a;
+  border: 1px solid #496f9d;
+  border-radius: 0px;
+}
+
+.sidenav .list-group-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.outlet {
+  margin-top: 50px;
+}

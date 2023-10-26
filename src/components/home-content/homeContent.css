@@ -1,0 +1,34 @@
+.content-group {
+  margin-top: 30px;
+}
+
+.lab-description-image {
+  width: 100%;
+}
+
+.home-lab-head-image {
+  width: 70%;
+  border: 1px solid black;
+}
+
+.margin-block {
+  height: 30px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.bold-text {
+  font-weight: 600;
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .content {
+    padding: 0px;
+  }
+}

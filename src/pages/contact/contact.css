@@ -1,0 +1,19 @@
+.contact-content {
+  padding: 40px;
+  padding-left: 50px;
+  font-weight: 500;
+}
+
+.iitjammu-image {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .contact-content {
+    padding-left: 40px;
+  }
+
+  .iitjammu-image-container {
+    padding: 0px !important;
+  }
+}

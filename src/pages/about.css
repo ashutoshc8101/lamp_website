@@ -1,0 +1,66 @@
+.content {
+  padding-left: 0;
+  padding-right: 0;
+}
+.about-heading {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.description {
+  margin-top: 20px;
+  text-align: justify;
+  font-size: 25px;
+  width: 50%;
+}
+
+.details {
+  margin-top: 50px;
+  text-align: justify;
+  font-size: 18px;
+  width: 70%;
+  color: #333;
+}
+
+.themes {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.about-left, .about-right {
+  width: 80%;
+}
+
+.details {
+  width: 100%;
+}
+
+.description {
+  width: 100%;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.row {
+  margin: 0;
+}
+
+.services-container {
+  margin-top: 50px
+}
+
+.about-main-image {
+  width: 300px;
+}
+
+.about-image {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.services-image {
+  width: 60%;
+  margin-bottom: 20px;
+}

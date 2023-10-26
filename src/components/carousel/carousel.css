@@ -1,0 +1,10 @@
+.carousel-container img {
+  width: 100%;
+  height: 600px;
+}
+
+@media (max-width: 768px) {
+  .carousel-container img {
+    height: 250px;
+  }
+}
